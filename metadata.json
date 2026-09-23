@@ -1,0 +1,6 @@
+{
+  "name": "VoltCraft - Electronics Formula & Circuit Calculator Suite",
+  "description": "Precision electronics formula calculators for circuit design and analysis. Features Ohm's law, voltage dividers, capacitor RC time constants, LC resonant frequencies, 555 timers, and resistor color codes with interactive schematics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
